@@ -1,7 +1,6 @@
-![Header](./github-header-image-name.png)
+![My GitHub Header](./github-header-image.png)
 
 
-<h1 align="center">Hi, I'm Ryan Ward</h1>
 <h3 align="center">A frontend developer recently graduated from Le Wagon Tokyo.</h3>
 
 - 🌱 I’m currently **Gaining depth in Ruby on Rails and dabbling in Go**
