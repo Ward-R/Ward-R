@@ -1,3 +1,6 @@
+![Header](./github-header-image-name.png)
+
+
 <h1 align="center">Hi, I'm Ryan Ward</h1>
 <h3 align="center">A frontend developer recently graduated from Le Wagon Tokyo.</h3>
 
