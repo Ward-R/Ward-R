@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ryan Ward</h1>
 <h3 align="center">A frontend developer recently graduated from Le Wagon Tokyo.</h3>
 
-- 🌱 I’m currently learning **Gaining depth in Ruby on Rails, dabbling in Go**
+- 🌱 I’m currently **Gaining depth in Ruby on Rails and dabbling in Go**
 
 - 📫 How to reach me **wardry@gmail.com**
 
