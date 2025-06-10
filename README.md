@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1994 when I used to go to the computer lab and program a SNES code book in BASIC.<br>📚 I'm currently working on deepening my Ruby on Rails skills, but I am also dabbling in Go.<br>🎯 Goals: Get a job, and continue to get better at coding and Japanese.<br>🎲 Fun fact: I worked as a 1st Class Power Engineer for 20 years in Canada</p>
+<p align="left">✨ Creating bugs since 1994 when I used to go to the computer lab and program a SNES code book in BASIC.<br>📚 I'm currently working on deepening my Ruby on Rails skills, but I am also dabbling in Go.<br>🎯 Goals: Get a job, and continue to get better at coding and Japanese.<br>🎲 Fun fact: I worked as a 1st Class Power Engineer for 20 years in Canada.</p>
 
 ###
 
