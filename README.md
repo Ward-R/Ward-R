@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ryan I'm originally from Canada, but now live permanently in Tokyo, Japan.</p>
+<p align="left">My name is Ryan, and I'm originally from Canada, but now live permanently in Tokyo, Japan.</p>
 
 ###
 
