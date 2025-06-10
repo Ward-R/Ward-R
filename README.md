@@ -1,5 +1,3 @@
-![My GitHub Header](./github-header-image.png)
-
 
 <h3 align="center">A frontend developer recently graduated from Le Wagon Tokyo.</h3>
 
